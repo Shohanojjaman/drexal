@@ -2010,6 +2010,9 @@ HOME PAGE 6
 .gallary-img img {
   width: 100%;
 }
+.n-mt{
+  margin-top: -260px;
+}
 .gallary-contant {
   position: absolute;
   top: 0;

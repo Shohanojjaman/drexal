@@ -61,7 +61,12 @@
     .v-header {
         width: 230px;
     }
-    
+    .v-header-b {
+        width: 230px;
+    }
+    .n-mt {
+        margin-top: -188px;
+    }
     .header-action li {
         padding: 30px 15px;
     }
@@ -137,6 +142,9 @@
     .v-header{
         width: 180px;
     }
+    .v-header-b{
+        width: 180px;
+    }
     .logo {
         width: 120px;
     }
@@ -171,7 +179,9 @@
     .slider-text h2 {
         font-size: 20px;
     }
-    
+    .n-mt {
+        margin-top: -134px;
+    }
     .slider-text p {
         margin-bottom: 20px;
     }
