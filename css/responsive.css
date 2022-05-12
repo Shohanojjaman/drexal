@@ -1,0 +1,482 @@
+/* XXL Device :>1400px */
+@media (min-width: 1401px){
+    .new-contant {
+        top: 18%;
+        left: 22%;
+        width: 500px;
+        height: 500px;  
+    }
+    .new-contant h3 {
+        font-size: 42px;
+    }
+    .new-contant p {
+        font-size: 21px;
+    }
+    .new-contant a {
+        font-size: 26px;
+    }
+    .light-contant {
+        top: 5%;
+        left: 32%;
+        width: 340px;
+        height: 340px;
+    }
+    .light-contant h3 {
+        font-size: 42px;
+    }
+    .light-contant p{
+        font-size: 21px;
+    }
+    .light-contant a{
+        font-size: 22px;
+    }
+    .rugs-contant {
+        top: 11%;
+        left: 21%;
+        width: 300px;
+        height: 300px;
+    }
+    .rugs-contant h3 {
+        font-size: 42px;
+    }
+    .rugs-contant p{
+        font-size: 21px;
+    }
+    .rugs-contant a{
+        font-size: 22px;
+    }
+}
+/* XL Device :1200px */
+@media (min-width: 1200px) and (max-width: 1400px) {
+
+}
+/* LG Device :992px */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-area {
+        min-height: 120px;
+    }
+    .v-header {
+        width: 230px;
+    }
+    
+    .header-action li {
+        padding: 30px 15px;
+    }
+    .main-menu ul li {
+        display: inline-block;
+        margin-right: 15px;
+        position: relative;
+    }
+    .slider-area2 .slider-text {
+        margin-left: 200px;
+    }
+    .grid-banner {
+        background-position: -40px 12px;
+    }
+    .new-contant {
+        top: 8%;
+        left: 18%;
+        width: 333px;
+        height: 330px;
+    }
+    .body .grid-banner {
+        background-position: -50px;
+    }
+    .text-area {
+        margin-left: 170px;
+    }
+    .text {
+        top: 34%;
+    }
+    .light-contant {
+        width: 180px;
+        height: 180px;
+        top: 3%;
+        left: 33%;
+    }
+    .light-contant h3 {
+        font-size: 18px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #363636;
+    }
+    .light-contant .text {
+        position: absolute;
+        top: 10%;
+        right: 0;
+        left: 0;
+    }
+    .rugs-contant {
+        width: 160px;
+        height: 160px;
+    }
+    .rugs-contant h3 {
+        font-size: 18px;
+    }
+    .rugs-contant p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .rugs-contant a {
+        font-size: 11px;
+    }
+    .sm-product-text {
+        float: none;
+        padding-left: 15px;
+    }
+
+}
+/* MD Device :768px */
+@media (min-width: 768px) and (max-width: 991px) {
+    .v-header{
+        width: 180px;
+    }
+    .logo {
+        width: 120px;
+    }
+    .header-action li {
+        padding: 15px 7px;
+    }
+    .header-action li a {
+        font-size: 12px;
+    }
+    .v-main-manu ul li {
+        padding: 15px 0px;
+    }
+    .costom-link ul li a {
+        padding-right: 5px;
+    }
+    .main-menu ul li {
+        margin: 0 20px;
+    }
+    .main-menu ul li .mega-menu {
+        width: 450px;
+    }
+    .header-right {
+        margin-top: 14px;
+        margin-bottom: 14px;
+    }
+    .single-silder {
+        height: 430px;
+    }
+    .slider-area2 .slider-text {
+        margin-left: 100px;
+    }
+    .slider-text h2 {
+        font-size: 20px;
+    }
+    
+    .slider-text p {
+        margin-bottom: 20px;
+    }
+    .slider-text a {
+        font-size: 11px;
+    }
+    .grid-banner {
+        background-position: -15px 0;
+    }
+    .grid-banner {
+        height: 160px;
+    }
+    .new-contant {
+        top: 3%;
+        left: 10%;
+        width: 280px;
+        height: 280px;
+    }
+    .text {
+        top: 32%;
+    }
+    .light-contant {
+        width: 140px;
+        height: 140px;
+        top: 3%;
+        left: 33%;
+    }
+    .light-contant h3 {
+        font-size: 15px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #363636;
+    }
+    .light-contant p{
+        font-size:12px;
+        margin-bottom: 0
+    }
+    .light-contant .text {
+        position: absolute;
+        top: 10%;
+        right: 0;
+        left: 0;
+    }
+    .rugs-contant {
+        width: 140px;
+        height: 140px;
+        top: 3%;
+        left: 16%;
+    }
+    .rugs-contant h3 {
+        font-size: 15px;
+    }
+    .rugs-contant p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .rugs-contant a {
+        font-size: 11px;
+    }
+    .text-area {
+        margin-left: 150px;
+        padding-top: 23px;
+    }
+    .text-area h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .text-area p {
+        font-size: 12px;
+        font-weight: normal;
+        line-height: 24px;
+        color: #888888;
+        margin-bottom: 8px;
+    }
+    .text-area a {
+        font-size: 12px;
+    }
+    .product-tab .nav {
+        margin-top: 60px;
+        margin-bottom: 15px;
+    }
+    .product-text h3 {
+        font-size: 10px;
+        font-weight: 400;
+        text-transform: uppercase;
+        line-height: 5px;
+        margin-bottom: 20px;
+    }
+    .sm-product-text {
+        float: none;
+    }
+    .banner-wrepper {
+        background-size: cover;
+        background-position: center center;
+    }
+    .banner-text {
+        margin-left: 10%;
+    }
+    .banner-text h2 {
+        font-size: 25px;
+    }
+    .banner-text p {
+        font-size: 16px;
+    }
+    .banner-text a {
+        font-size: 11px;
+    }
+    .brand-area {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+    .footer-top {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer-bottom li {
+        padding-right: 13px;
+    }
+
+}
+/* Extra small Device */
+@media (max-width: 767px) {
+    .logo img {
+        margin-top: 20px;
+    }
+    .header-right {
+        margin-top: 14px;
+        margin-bottom: 14px;
+    }
+    .header-right {
+        margin-top: 14px;
+    }
+    .header-right ul li .search-form {
+        right: -23px;
+        top: 32px;
+        width: 330px;
+    }
+    .header-right ul.minicart {
+        right: -42px;
+        top: 32px;
+    }
+    .single-silder {
+        height: 430px;
+    }
+    .slider-text {
+        margin-left: 50px;
+    }
+    .grid-banner {
+        background-position: -55px 0;
+    }
+    .text-area {
+        margin-left: 170px;
+        padding-top: 45px;
+    }
+    .banner-text2 a {
+        margin-top: -60px;
+    }
+    .banner-text2 {
+        margin-left: 15px;
+        margin-top: 40px;
+    }.banner-text2 {
+        margin-left: 15px;
+        margin-top: 40px;
+    }
+    .slider-area2 .slider-text {
+        margin-left: 80px;
+    }
+    .slider-area2 .slider-text h2 {
+        font-size: 20px;
+    }
+    .slider-area2 .slider-text h2 span {
+        font-size: 20px;
+        margin-top: -25px;
+    }
+    .slider-text p {
+        margin-bottom: 20px;
+    }
+    .slider-text a {
+        font-size: 11px;
+    }
+    .cetagoris-area {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .new-wrepper {
+        width: 100%;
+    }
+    .new-contant {
+        top: 4%;
+        left: 14%;
+        width: 300px;
+        height: 300px;
+    }
+    .light-wrepper {
+        width: 100%;
+    }
+    .light-contant {
+        top: 2%;
+        left: 32%;
+        width: 150px;
+        height: 150px;
+    }
+    .rugs-wrepper {
+        width: 50%;
+    }
+    .rugs-contant {
+        top: 10%;
+        left: 24%;
+        width: 120px;
+        height: 120px;
+    }
+    .rugs-contant h3 {
+        font-size: 15px;
+    }
+    .rugs-contant p {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    .rugs-contant a {
+        font-size: 12px;
+    }
+    .product-area {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .product-tab .nav {
+        margin-top: 60px;
+        margin-bottom: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .product-tab li {
+        margin-bottom: 20px;
+    }
+    .nav-style.owl-carousel .owl-nav button {
+        right: 12px;
+        top: 0;
+    }
+    .nav-style.owl-carousel .owl-nav button.owl-prev {
+        right: 65px;
+    }
+    .product-text h3 {
+        font-size: 11px;
+        margin-bottom: 12px;
+    }
+    .product-price span {
+        line-height: 35px;
+    }
+    .product-wrepper:hover .cart-boton {
+        transform: translateY(-137%);
+    }
+    .banner-wrepper {
+        background-size: contain;
+        height: 101px;
+        margin-bottom: 0;
+    }
+    .banner-text {
+        margin-left: 10%;
+        margin-bottom: 10px;
+    }
+    .banner-text h2 {
+        font-size: 25px;
+    }
+    .banner-text p {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .banner-text a {
+        font-size: 11px;
+    }
+    .brand-area {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+    .subscribe-area2 input[type="email"] {
+        width: 100%;
+    }
+    .subscribe-area2 input[type="button"] {
+        margin-left: 0;
+        width: 100%;
+    }
+    .footer-top {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer-bottom li {
+        padding-right: 0;
+    }
+    .subscribe input[type="email"] {
+        width: 350px;
+    }
+    .subscribe input[type="button"] {
+        margin-left: 0;
+        width: 350px;
+    }
+    .footer-top h3 {
+        margin-top: 20px;
+    }
+    .footer-about {
+        float: none;
+    }
+    .footer-about i {
+        line-height: 50px;
+    }
+    .copy p{
+
+        text-align: center;
+    }
+}
+ 
+/* SM Small Device :550px */
+@media only screen and (min-width: 576px) and (max-width: 767px){
+
+}
