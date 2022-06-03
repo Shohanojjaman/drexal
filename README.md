@@ -8,4 +8,4 @@ This is my PSD to HTML project.
 - CSS
 - jQuery
 
-[Live Preview](https://drexel-01.myshopify.com/)
+[Live Preview](https://shohanojjaman.github.io/drexal/)
